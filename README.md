@@ -7,7 +7,7 @@ This project uses the past 10 years of men's NCAA basketball scores and statisti
 ## File Guide
 This Repo will contain the following files
 1. Jupyter Notebook for Final Project Code: ncaa-seed-clusters.IPYNB
-2. PowerPoint file for video presentation slides
+2. PowerPoint file for video presentation slides: DTSA 5510 Slides.pptx
 
 ## User Guide
 The Jupyter Notebook was developed in the Kaggle online notebook environment. An easy way to view the notebook is go the Kaggle.com and upload the notebook from this repo. Opening in Github should also allow you to view the project.
