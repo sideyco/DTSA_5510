@@ -6,8 +6,7 @@ This project uses the past 10 years of men's NCAA basketball scores and statisti
 
 ## File Guide
 This Repo will contain the following files
-1. Jupyter Notebook for Final Project Code
-   ncaa-seed-clusters.IPYNB
+1. Jupyter Notebook for Final Project Code: ncaa-seed-clusters.IPYNB
 2. PowerPoint file for video presentation slides
 
 ## User Guide
