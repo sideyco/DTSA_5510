@@ -10,4 +10,5 @@ This Repo will contain the following files
 2. PowerPoint file for video presentation slides: DTSA 5510 Slides.pptx
 
 ## User Guide
-The Jupyter Notebook was developed in the Kaggle online notebook environment. An easy way to view the notebook is go the Kaggle.com and upload the notebook from this repo. Opening in Github should also allow you to view the project.
+The Jupyter Notebook was developed in the Kaggle online notebook environment. An easy way to view the notebook is go the Kaggle.com and upload the notebook from this repo. Opening in Github should also allow you to view the project while using the preview tab.
+
