@@ -10,4 +10,4 @@ This Repo will contain the following files
 2. PowerPoint file for video presentation slides
 
 ## User Guide
-The Jupyter Notebook was developed in the Kaggle online notebook environment. An easy way to view the notebook is go the Kaggle.com and upload the notebook from this repo.
+The Jupyter Notebook was developed in the Kaggle online notebook environment. An easy way to view the notebook is go the Kaggle.com and upload the notebook from this repo. Opening in Github should also allow you to view the project.
